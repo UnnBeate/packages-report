@@ -1,2 +1,3 @@
 README
 
+Cats are cute
